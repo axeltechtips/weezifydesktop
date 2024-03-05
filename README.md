@@ -6,3 +6,6 @@ Mac/Linux support coming soon!
 Windows 10 or later. Other versions haven't been tested.. **yet**.
 
 This is a fan-made project, but Rivers if you see this feel free to use it (and maybe improve it.)
+
+# Bugs
+Google sign in - working on it

@@ -1,0 +1,2 @@
+# weezifydesktop
+Weezify desktop app

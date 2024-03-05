@@ -1,4 +1,4 @@
-# weezifydesktop
+# Weezify Desktop (NON OFFICIAL)
 A simple Windows desktop client for Rivers Cuomo's Weezify webapp, made with Python.
 Mac/Linux support coming soon!
 
